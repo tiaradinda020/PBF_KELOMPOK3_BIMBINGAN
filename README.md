@@ -23,6 +23,20 @@
 
 ![ERD TA-Page-1 drawio](https://github.com/user-attachments/assets/39a5ed43-7b0e-4c53-94ea-896ec7b8b648)
 
+## Revisi ERD
+
+- Panahnya kebalik
+- NPM menggunakan char
+- Angkatan menggunakan char
+- no_telp menggunakan char
+- NIDN menggunakan char
+- id_ta dan jadwal bimbingan menggunakan int auto_increment
+- file_ta opsional
+- prodi dan kelas dihapus
+- null kecuali primary key
+- Jangan dispasi
+- password diganti menjadi (255) awalnya (10)
+
 ## RELASI ANTAR TABEL
 
 - **Mahasiswa → Tugas Akhir** : One-to-One
