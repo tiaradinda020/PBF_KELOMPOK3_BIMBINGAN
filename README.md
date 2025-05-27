@@ -34,9 +34,6 @@
 - **Dosen Pembimbing → Notifikasi** : One-to-Many
   Seorang dosen juga bisa menerima banyak notifikasi. Notifikasi.penerima_nidn adalah Foreign Key ke Dosen_Pembimbing.nidn.
   
-- **Tugas Akhir → Jadwal Bimbingan** : One-to-Many
-  Satu tugas akhir bisa memiliki banyak jadwal bimbingan. Jadwal_Bimbingan.id_ta adalah Foreign Key yang mengacu ke Tugas_Akhir.id_ta.
-
 - **Dosen Pembimbing → Jadwal Bimbingan** : One-to-Many
   Satu dosen pembimbing bisa membimbing banyak jadwal bimbingan. Jadwal_Bimbingan.nidn adalah Foreign Key yang mengacu ke Dosen_Pembimbing.nidn.
 
