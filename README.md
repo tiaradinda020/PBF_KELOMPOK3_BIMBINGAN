@@ -9,8 +9,6 @@
 ## Pengertian
 - ERD(Entity Relationship Diagram) adalah diagram yang digunakan untuk membuat struktur database. Diagram ini menunjukkan hubungan antar entitas (seperti tabel dalam database),atribut (kolom data), dan jenis hubungan (relasi) antar entitas.
   
-- Database adalah data yang tersimpan secara sistematis, terstruktur, dan dapat diakses serta dikelola oleh sistem manajemen basis data (DBMS) yang digunakan untuk membuat, mengelola, dan mengakses database.
-  
 - Navicat adalah Software untuk mengelalola database dengan berbagai jenis database seperti MySQL, MariaDB, PostgreSQL, Oracle, SQLite, dan SQL Server.
   
 ## Fungsi ERD
@@ -42,5 +40,11 @@
 - **Dosen Pembimbing → Jadwal Bimbingan** : One-to-Many
   Satu dosen pembimbing bisa membimbing banyak jadwal bimbingan. Jadwal_Bimbingan.nidn adalah Foreign Key yang mengacu ke Dosen_Pembimbing.nidn.
 
+
+## Database
+
+Database adalah data yang tersimpan secara sistematis, terstruktur, dan dapat diakses serta dikelola oleh sistem manajemen basis data (DBMS).
+  
+![image](https://github.com/user-attachments/assets/4cb91974-e6ca-46ee-ba9f-1e490cf12d07)
 
 
