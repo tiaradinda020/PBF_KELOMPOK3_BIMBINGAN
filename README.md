@@ -52,9 +52,12 @@
 
 ## Database
 
-- Database adalah data yang tersimpan secara sistematis, terstruktur, dan dapat diakses serta dikelola oleh sistem manajemen basis data (DBMS).
+Database adalah data yang tersimpan secara sistematis, terstruktur, dan dapat diakses serta dikelola oleh sistem manajemen basis data (DBMS).
 
-- Navicat adalah Software untuk mengelalola database dengan berbagai jenis database seperti MySQL, MariaDB, PostgreSQL, Oracle, SQLite, dan SQL Server.
+Navicat adalah Software untuk mengelalola database dengan berbagai jenis database seperti MySQL, MariaDB, PostgreSQL, Oracle, SQLite, dan SQL Server.
+
+- Create untuk membuat struktur tabel
+- Insert untuk menambahkan data pada tabel
   
 ![image](https://github.com/user-attachments/assets/4cb91974-e6ca-46ee-ba9f-1e490cf12d07)
 
